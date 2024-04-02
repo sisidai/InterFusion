@@ -2,6 +2,8 @@
 
 <h1>InterFusion: Text-Driven Generation of 3D Human-Object Interaction</h1>
 
+![](./assets/teaser.png)
+
 <h4>InterFusion can generate diverse 3D scenes of human-object interaction (3D HOI) given texts.</h4>
 
 <h4 align="center">
@@ -11,7 +13,7 @@
 
 <!-- This repository contains the official implementation of InterFusion. -->
 
-<strong>:construction: ... Code Coming Soon ... :wrench:</strong>
+<strong><h2>:construction: ... Code Coming Soon ... :wrench:</h2></strong>
 
 </div>
 
