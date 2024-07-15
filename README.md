@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>InterFusion: Text-Driven Generation of 3D Human-Object Interaction</h1>
+<h1>[ECCV 2024] InterFusion: Text-Driven Generation of 3D Human-Object Interaction</h1>
 
-![](./assets/teaser.png)
+![](./assets/teaser++.mp4)
 
 <h4>InterFusion can generate diverse 3D scenes of human-object interaction (3D HOI) given texts.</h4>
 
