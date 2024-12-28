@@ -23,7 +23,7 @@
 
 ## :hammer: Installation
 
-For flexibility, we provide two separate environments, s1 and s2, corresponding to the two stages of InterFusion. We recommend using anaconda to manage the environments. Additionally, we provide `INSTALL.MD` which summarizes potential issues and solutions that may arise during environment installation. If you encounter any issues not mentioned in the document, please submit an issue.
+For flexibility, we provide two separate environments corresponding to the two stages of InterFusion. We recommend using anaconda to manage the environments. Additionally, we provide `INSTALL.MD` which summarizes potential issues and solutions that may arise during environment installation. If you encounter any issues not mentioned in the document, please submit an issue.
 
 #### Enviroment for pose generation
 Set up the environment:
